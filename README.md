@@ -41,10 +41,10 @@ Baok
     *   `morphine` (Painkiller/Clear Visual)
     *   `bloodbag` (Transfusi/Stop Bleed)
     *   `splint` (Bone Stabilizer)
-5.  *Restart* server dan nikmati pengalaman medis tingkat tinggi!
+5.  *Restart* server dan nikmati pengalaman medis!
 
 ---
 
 ## 📜 Credits & License
-Developed with passion by **Vibe Dev Team**.  
+Developed with passion by **baok**.  
 *Original Logic. High Performance. Pure Roleplay Experience.*
